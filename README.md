@@ -15,9 +15,9 @@ Welcome to my GitHub profile! I'm António Durão, a passionate developer with a
 ## 💻 Tech Stack
 
 ### 🛠️ Back End
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,python,hibernate,spring&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,hibernate,spring&theme=dark)](https://skillicons.dev)
 ### 🎨 Front End
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,jquery,bootstrap&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,html,css,jquery,bootstrap&theme=dark)](https://skillicons.dev)
 ### 🗃️ DataBase
 [![My Skills](https://skillicons.dev/icons?i=mysql&theme=dark)](https://skillicons.dev)
 ### 🔗 Extra Tools
