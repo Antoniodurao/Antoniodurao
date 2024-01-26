@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm António Durão, a passionate developer with a
 
 ## 🌱 Current Learning Journey
 
-I'm currently on a Python learning adventure. Exciting times ahead as I explore new possibilities and expand my skill set.
+I'm currently on an early Python and React Native learning adventure. Exciting times ahead as I explore new possibilities and expand my skill set.
 
 ## 🎮 Hobbies
 
